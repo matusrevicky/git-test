@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// toto je skusaci komentar
+		// toto je skusaci komentar fg sd fd sdf
 		
 		
 		System.out.println("Hello Wo" + "rld");
